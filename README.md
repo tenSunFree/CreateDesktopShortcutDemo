@@ -5,7 +5,8 @@
 如果對於 在安裝APP之後 可以自動在主畫面建立一個捷徑的功能 有興趣的話, 可以參考看看                                   
 
 取材自以下資源
---------                                   
+--------                        
+Android create shortcuts on the home screen                        
 https://stackoverflow.com/questions/6337431/android-create-shortcuts-on-the-home-screen/6337645
                               
 預覽
